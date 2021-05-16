@@ -15,6 +15,7 @@ Some of the advantages of refactoring the code is being able to make the quality
 Disadvantages of the original and refactored VBA script
 Disadvantages of refactoring code is it can be time consuming as well as confusing in determining how to go about it if you are not fully clear on the steps you should take to make the code more efficient. Also, if you are not in the habit of activating the sheet needed before formatting, in the future someone can go back later to refactor the code and it may not run as intended after the changes are made. 
 
-![VBA_Challenge_2017.png.png](VBA_Challenge_2017.png)
+![VBA_Challenge_2017.png.png](
                         
 ![VBA_Challenge_2018.png.png](VBA_Challenge_2018.png)
+![C:\Users\launi\Documents\Homework\stocks-analysis\VBA_Challenge_Resources.png](VBA_Challenge_2017.png)
